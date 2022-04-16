@@ -1,1 +1,1 @@
-This project is located at this address https://oguzhan-ucar.github.io/language-cards-react-project/ 
+This project deployed with github >> https://firebase-movie-app-project.herokuapp.com/
