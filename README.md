@@ -2,4 +2,4 @@
 
 React practise
 
-This project deployed with github >> https://firebase-movie-app-project.herokuapp.com/
+This project deployed with github >> https://oguzhan-ucar.github.io/language-cards-react-project/
